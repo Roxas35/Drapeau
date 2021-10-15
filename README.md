@@ -6,4 +6,4 @@ Les deux codes ont passées avec succées le style50.
 
 Les deux codes sont commentés.
 
-Pour afficher les différents drapeaux, il faut impérativement noté l'un des 6 termes qui se situe dans les colonnes 1 et 2 sinon il revoie un message d'erreur.
+Pour afficher les différents drapeaux, il faut impérativement noté l'un des 6 termes qui se situe dans les colonnes 1 et 2 sinon il renvoie un message d'erreur et relancera le programme.
