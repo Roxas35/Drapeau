@@ -1,6 +1,6 @@
 Exercice C & Python sur un problème de la vie courante.
 
-Le problème que j'ai choisi d'abordé est la surveillance de la plage et le hissage du drapeau en fonction de la météo et l'état de la mer
+Poste de contrôle de la plage qui voit l'état de la mer et qui hisse le drapeau l'état de la mer ou en fonction de la méteo.
 
 Les deux codes ont passées avec succées le style50.
 
