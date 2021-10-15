@@ -8,7 +8,7 @@ import sys
 categorie = [
     ["Hisser le Drapeau vert ! Tout va bien pour les vacanciers.", "Plate", "Calme"],
     ["Hisser le Drapeau Orange ! Faite attention aux vacanciers.", "Agité", "Forte"],
-    ["Hisser le Drapeau Rouge ! Personne de va se baigner !", "Dangeureuse", "Orage"]
+    ["Hisser le Drapeau Rouge ! Personne ne va se baigner !", "Dangeureuse", "Orage"]
 ]
 
 # On affiche le message suivant et on assigne a (a) la réponse entré dans le terminal grâce à la fonction input.
