@@ -20,7 +20,7 @@ int main(void)
     {
         {"Hisser le Drapeau vert ! Tout va bien pour les vacanciers.", "Plate", "Calme"},
         {"Hisser le Drapeau Orange ! Faite attention aux vacanciers.", "Agité", "Mauvais"},
-        {"Hisser le Drapeau Rouge ! Personne de va se baigner !", "Dangeureuse", "Orage"}
+        {"Hisser le Drapeau Rouge ! Personne ne va se baigner !", "Dangeureuse", "Orage"}
     };
 
 
