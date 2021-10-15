@@ -26,7 +26,7 @@ int main(void)
 
 //On affiche le message si dessous grâce à la commande printf
 ///Scanf sert à assigner à une variable qui est (a) la valeur entré au clavier
-    printf("Ici le poste de contrôle de la plage, comment est la mer ce matin pour les vacanciers ?\n");
+    printf("Ici le poste de contrôle de la plage, comment est la mer ce matin pour les vacanciers (Plate, Agité, Dangeureuse, Calme, Mauvais ou Orage) ?\n");
     scanf("%s", a);
 
 
