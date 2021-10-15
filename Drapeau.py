@@ -12,7 +12,7 @@ categorie = [
 ]
 
 # On affiche le message suivant et on assigne a (a) la réponse entré dans le terminal grâce à la fonction input.
-a = input("Ici le poste de contrôle de la plage, comment est la mer ce matin pour les vacanciers (Plate, Calme, Agité, Mauvais, Dangeureuse ou Orange) ?\n")
+a = input("Ici le poste de contrôle de la plage, comment est la mer ce matin pour les vacanciers (Plate, Agité, Dangeureuse, Calme, Forte ou Orage) ?\n")
 
 # On créé une boucle for qui va initialiser 3 fois en partant de 0
 for i in range(3):
