@@ -1,5 +1,5 @@
 //Exercice C pour Projet de la vie courante
-//Poste de contrôle de la plage qui voit l'état de la mer et qui hisse le drapeau en fonction du temps et l'état de la mer
+//Poste de contrôle de la plage qui contrôle l'état de la mer et qui hisse le drapeau en fonction du temps et l'état de la mer
 
 //On inclue les différentes bibliothèques utilisés
 #include <stdio.h>
